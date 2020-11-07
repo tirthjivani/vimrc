@@ -1,7 +1,7 @@
 # **My vm script**
 
 **How to use it**
-1. Download <a href="https://tirthjivani.github.io"><b>vimrc config</b></a> or clone this repo
+1. Download <a href="https://github.com/tirthjivani/vimrc/blob/main/vimrc" download><b>vimrc config</b></a> or clone this repo
 ```
 git clone link
 ```
