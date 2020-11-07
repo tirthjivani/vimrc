@@ -1,4 +1,4 @@
-# **My vm script**
+# **My vim script**
 
 **How to use it**
 1. Download <a href="https://github.com/tirthjivani/vimrc/blob/main/vimrc" download><b>vimrc config</b></a> or clone this repo
@@ -14,4 +14,4 @@ gh repo clone tirthjivani/vimrc
 
 3. Rename *vimrc* to *.vimrc*
 
-Boom there you go 🥳
+**Boom there you go 🥳**
